@@ -32,7 +32,7 @@ curl -X POST https://onetagai.com/api/signup -H "Content-Type: application/json"
 
 Paste the key in Settings > Ask AI and save.
 
-The key is public by design. It ends up in your page source, like an analytics ID. The free plan has 1,000,000 tokens a month with a hard cap. No bill can appear.
+The key is public by design. It ends up in your page source, like an analytics ID. The free plan has 1,000,000 tokens, one time, no monthly reset with a hard cap. No bill can appear.
 
 ## Settings
 

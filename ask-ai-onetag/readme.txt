@@ -27,7 +27,7 @@ Features:
 * Loads asynchronously in the footer, so it does not slow down your page.
 * Nothing is loaded on the public site until you add a key.
 
-The free plan includes 1,000,000 tokens a month with a hard cap. No bill can appear.
+The free plan includes 1,000,000 tokens, one time, no monthly reset with a hard cap. No bill can appear.
 
 == Installation ==
 
@@ -45,7 +45,7 @@ No. It is public by design, like an analytics ID. It ends up in your page source
 
 = What does it cost? =
 
-The free plan has 1,000,000 tokens a month with a hard cap. There is no card on file, so no bill can appear.
+The free plan has 1,000,000 tokens, one time, no monthly reset with a hard cap. There is no card on file, so no bill can appear.
 
 = Where does the button appear? =
 
